@@ -1,12 +1,4 @@
-application/config/database.php
-*.patch
-patches/
-git-svn-diff.py
-*.bash
-*.sh
-.buildpath
-.project
-.settings/*
-*.swp
-*.rej
-*.orig
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
